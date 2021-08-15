@@ -1,2 +1,5 @@
 demo file
-second line in main branch
+<<<<<<< HEAD
+second line in main and second branch
+third line in demo1 branch
+>>>>>>> demo1
